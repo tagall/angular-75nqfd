@@ -14,8 +14,8 @@
 }
 
 @media (max-width: 480px) {
-  .deals {}
+
   .deal {
-    width: 100%;
+    width: 380px;
   }
 }
